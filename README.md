@@ -1,7 +1,11 @@
 # DS_ML_DL
 リサーチワークショップ(2024))にて提供するデータサイエンス，機械学習，深層学習のためのコードを置く
 
+## 回帰
+単回帰
+<a href="https://github.com/ymuto0302/DS_ML_DL/blob/main/simple_regression.ipynb">simple_regression.ipynb</a>
 
+## DNN
 MLP を用いて MNIST dataset を分類
 <a href="https://github.com/ymuto0302/DS_ML_DL/blob/main/MLP_MNIST.ipynb">MLP_MNIST.ipynb</a>
 
